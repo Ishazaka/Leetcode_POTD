@@ -1,4 +1,5 @@
 
+// solution 1
 class Solution:
     def minimumIndex(self, nums: List[int]) -> int:
         freq = Counter(nums)
